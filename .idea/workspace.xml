@@ -4,7 +4,33 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e33c1c0-1ab4-4ab0-86b0-56e176d8f154" name="Changes" comment="" />
+    <list default="true" id="3e33c1c0-1ab4-4ab0-86b0-56e176d8f154" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Gin框架/1.ginQuickstart/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Gin框架/1.ginQuickstart/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Gin框架/2.获取请求数据/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Gin框架/2.获取请求数据/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Gin框架/2.获取请求数据/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Gin框架/2.获取请求数据/readmi.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Gin框架/2.获取请求数据/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Gin框架/3.获取请求参数2/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Gin框架/3.获取请求参数2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Gin框架/4.mysql/mysql.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Gorm/1.连接数据库/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Gorm/2.表的创建/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Gorm/2.表的创建/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Gorm/2.表的创建/images/image004.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Gorm/2.表的创建/images/img001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Gorm/2.表的创建/images/img002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Gorm/2.表的创建/images/img003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Gorm/2.表的创建/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Gorm/2.表的创建/数据库.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Gorm/3.添加表记录/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Gorm/3.添加表记录/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Gorm/3.添加表记录/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,12 +39,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Go File" />
         <option value="HTML File" />
+        <option value="Go File" />
       </list>
     </option>
   </component>
   <component name="GOROOT" url="file://$PROJECT_DIR$/../../programinstall/golang" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="urls">
       <list>
@@ -34,51 +63,60 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2VnQpdaEF53IXY6bHi3SHbF85PU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultGoTemplateProperty": "Go File",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "configurable..is.expanded": "true",
-    "go.import.settings.migrated": "true",
-    "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "D:/golangproject/src/5.网络编程",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "go.vgo"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;configurable..is.expanded&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/golangproject/src/7.Gorm&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件": [
-      "PLAIN_TEXT"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ],
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件&quot;: [
+      &quot;PLAIN_TEXT&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\golangproject\src\7.Gorm" />
+      <recent name="D:\golangproject\src\7.Gorm\2.表的创建\images" />
+      <recent name="D:\golangproject\src\6.Gin框架\3.获取请求参数2" />
+      <recent name="D:\golangproject\src\6.Gin框架" />
       <recent name="D:\golangproject\src\5.网络编程" />
-      <recent name="D:\golangproject\src\4.包管理" />
-      <recent name="D:\golangproject\1.数据类型\6.结构体" />
-      <recent name="D:\golangproject\1.数据类型\6.结构体\10.结构体反序列化" />
-      <recent name="D:\golangproject\2.函数" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\golangproject\src\6.Gin框架\1.ginQuickstart\templates" />
       <recent name="D:\golangproject\3.文件编码" />
       <recent name="D:\golangproject\1.数据类型\6.结构体" />
       <recent name="D:\golangproject\2.函数\9.以函数作为返回值\images" />
       <recent name="D:\golangproject\2.函数\6.匿名函数\images" />
-      <recent name="D:\golangproject\2.函数\5.函数的值拷贝\images" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go 构建.go build main.go (1)">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="golangproject" />
       <working_directory value="$PROJECT_DIR$" />
@@ -86,6 +124,47 @@
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build gorm" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golangproject" />
+      <working_directory value="$PROJECT_DIR$/7.Gorm/2.表的创建" />
+      <kind value="PACKAGE" />
+      <package value="gorm" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/7.Gorm/2.表的创建/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golangproject" />
+      <working_directory value="$PROJECT_DIR$/7.Gorm/3.添加表记录" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/7.Gorm/3.添加表记录/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golangproject" />
+      <working_directory value="$PROJECT_DIR$/6.Gin框架/3.获取请求参数2" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/6.Gin框架/3.获取请求参数2/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golangproject" />
+      <working_directory value="$PROJECT_DIR$/7.Gorm/1.连接数据库" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/7.Gorm/1.连接数据库/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (5)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golangproject" />
+      <working_directory value="$PROJECT_DIR$/7.Gorm/2.表的创建" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/7.Gorm/2.表的创建/main.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
@@ -163,10 +242,21 @@
       <framework value="gotest" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Go 构建.go build main.go" />
+      <item itemvalue="Go 构建.go build gorm" />
+      <item itemvalue="Go 构建.go build main.go (5)" />
+      <item itemvalue="Go 构建.go build main.go (4)" />
+      <item itemvalue="Go 构建.go build main.go (3)" />
+      <item itemvalue="Go 构建.go build main.go (1)" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go 构建.go build main.go" />
-        <item itemvalue="Go 构建.go build main.go" />
+        <item itemvalue="Go 构建.go build main.go (1)" />
+        <item itemvalue="Go 构建.go build gorm" />
+        <item itemvalue="Go 构建.go build main.go (5)" />
+        <item itemvalue="Go 构建.go build main.go (4)" />
+        <item itemvalue="Go 构建.go build main.go (3)" />
       </list>
     </recent_temporary>
   </component>
